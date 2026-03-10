@@ -1,19 +1,22 @@
 # Dashboard de Produção - Power BI
 
-Dashboard desenvolvido para análise de indicadores da área de produção,
-permitindo acompanhar volume produzido e desempenho operacional.
+Dashboard desenvolvido para monitoramento de indicadores de produção,
+permitindo acompanhar desempenho operacional e qualidade das peças produzidas.
 
 ## Indicadores analisados
 
-- Volume de produção
-- Produção por produto
-- Produção por período
-- Indicadores operacionais
+- Total de peças aprovadas
+- Total de peças rejeitadas
+- Horas produtivas
+- Horas paradas
+- Disponibilidade
+- Qualidade
 
 ## Análises do dashboard
 
-- Evolução da produção ao longo do tempo
-- Comparação de desempenho entre produtos
-- Análise de volume produzido por categoria
+- Produção aprovada por mês
+- Desempenho por operador
+- Acompanhamento de horas produtivas e paradas
+- Indicadores de eficiência da produção
 
   ![Dashboard Produção](dashboard-producao.png)
