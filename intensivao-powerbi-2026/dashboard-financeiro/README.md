@@ -17,3 +17,5 @@ permitindo acompanhar recebimentos, custos, impostos e lucro.
 - Análise do lucro por mês
 - Filtro interativo por instituição financeira
 - Indicadores estratégicos para acompanhamento financeiro
+
+![Dashboard Financeiro](dashboard-financeiro.png)
